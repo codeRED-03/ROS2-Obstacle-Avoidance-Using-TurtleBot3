@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ankur/newRos2dir/src/obstacle_avoidance/build",
+  "command": "/usr/bin/c++ -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -isystem /opt/ros/foxy/include -g -std=gnu++14 -Wall -Wextra -Wpedantic -o CMakeFiles/script.dir/src/script.cpp.o -c /home/ankur/newRos2dir/src/obstacle_avoidance/src/script.cpp",
+  "file": "/home/ankur/newRos2dir/src/obstacle_avoidance/src/script.cpp",
+  "output": "CMakeFiles/script.dir/src/script.cpp.o"
+}
+]

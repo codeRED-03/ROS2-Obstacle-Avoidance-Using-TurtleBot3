@@ -1,0 +1,10 @@
+/home/ankur/newRos2dir/src/obstacle_avoidance/build/CMakeFiles/uninstall.dir
+/home/ankur/newRos2dir/src/obstacle_avoidance/build/CMakeFiles/obstacle_avoidance_uninstall.dir
+/home/ankur/newRos2dir/src/obstacle_avoidance/build/CMakeFiles/script.dir
+/home/ankur/newRos2dir/src/obstacle_avoidance/build/CMakeFiles/test.dir
+/home/ankur/newRos2dir/src/obstacle_avoidance/build/CMakeFiles/edit_cache.dir
+/home/ankur/newRos2dir/src/obstacle_avoidance/build/CMakeFiles/rebuild_cache.dir
+/home/ankur/newRos2dir/src/obstacle_avoidance/build/CMakeFiles/list_install_components.dir
+/home/ankur/newRos2dir/src/obstacle_avoidance/build/CMakeFiles/install.dir
+/home/ankur/newRos2dir/src/obstacle_avoidance/build/CMakeFiles/install/local.dir
+/home/ankur/newRos2dir/src/obstacle_avoidance/build/CMakeFiles/install/strip.dir
